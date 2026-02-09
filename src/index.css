@@ -1,4 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Remova as linhas @tailwind base, components, etc. */
 @import "tailwindcss";
+
+/* Se você tiver outros arquivos de CSS próprios para importar, coloque abaixo: */
+/* @import "./seu-estilo-personalizado.css"; */
+
+/* Seus estilos personalizados vêm depois */
+body {
+  background-color: white;
+}

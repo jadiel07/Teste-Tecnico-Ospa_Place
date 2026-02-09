@@ -1,5 +1,6 @@
 # Sobre o Projeto
-Link para video Explicativo: https://youtu.be/p7rkjQVp6-k
+Link para video Explicativo: https://youtu.be/p7rkjQVp6-k <br>
+Link para aplicação no ar: https://teste-tecnico-ospa-place.vercel.app/
 ** **
 É um teste técnico que estou fazendo.
 ** **

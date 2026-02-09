@@ -1,4 +1,6 @@
 # Sobre o Projeto
+Link para video Explicativo: https://youtu.be/p7rkjQVp6-k
+** **
 É um teste técnico que estou fazendo.
 ** **
 Criei uma plataforma que mostra os dados das escolas públicas de Chicago através da API oficial da cidade: [https://data.cityofchicago.org/resource/9xs2-f89t.json](https://data.cityofchicago.org/resource/9xs2-f89t.json)
